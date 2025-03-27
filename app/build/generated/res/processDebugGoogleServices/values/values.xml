@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">91306609884</string>
+    <string name="google_api_key" translatable="false">AIzaSyBSxvfSEqlaQexSCrMv0ttT7iYvswV8TKs</string>
+    <string name="google_app_id" translatable="false">1:91306609884:android:110060cd8dab3789e2f819</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBSxvfSEqlaQexSCrMv0ttT7iYvswV8TKs</string>
+    <string name="google_storage_bucket" translatable="false">jobseeker-be30d.appspot.com</string>
+    <string name="project_id" translatable="false">jobseeker-be30d</string>
+</resources>
